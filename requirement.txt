@@ -1,4 +1,7 @@
+# Core Libraries
+
 pandas
 numpy
 matplotlib
+seaborn
 jupyter
